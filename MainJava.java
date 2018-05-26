@@ -9,6 +9,5 @@ public class MainJava {
 		System.out.println("new collaborator user == shuvajituser90");
 		System.out.println("feature branch for user shuvajit90 == feature1");
 		System.out.println("some commit to release branch to demonstrate git rebase");
-		System.out.println("some commit to feature branch to demonstrate git rebase");
 	}
 }
